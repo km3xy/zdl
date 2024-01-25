@@ -51,3 +51,28 @@
 <hr>
 
 <h1>
+
+
+
+    </div>
+
+  </div>
+
+​
+
+  <div data-role="footer">
+
+    <h1>页脚文本</h1>
+
+  </div>
+
+</div>
+
+​
+</body>
+
+</html>
+
+
+
+  
