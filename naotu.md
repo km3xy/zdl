@@ -59,6 +59,12 @@ Popplet：https://www.popplet.com/
 
 
 
+以下是一些常用的动态脑图软件：
+
+https://mind.shutu.cn/
+
+
+
 
 
 
